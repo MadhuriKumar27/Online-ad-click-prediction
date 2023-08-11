@@ -4,6 +4,7 @@
 This data set contains the following features:
 
  'Daily Time Spent on Site': consumer time on site in minutes
+ 
  'Age': cutomer age in years
  'Area Income': Avg. Income of geographical area of consumer
  'Daily Internet Usage': Avg. minutes a day consumer is on the internet
